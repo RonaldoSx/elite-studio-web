@@ -62,23 +62,6 @@
         .section ul li {
             margin-bottom: 10px;
         }
-        .cta {
-            text-align: center;
-            margin: 40px 0;
-        }
-        .cta button {
-            background-color: #2b5785;
-            color: #fff;
-            padding: 15px 30px;
-            font-size: 20px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-        .cta button:hover {
-            background-color: #184769;
-        }
         .testimonials {
             background-color: #f7f7f7;
             padding: 40px;
@@ -165,10 +148,6 @@
                 <li>Entrenamiento en Inteligencia Emocional y Mental.</li>
                 <li>Prácticas y Ejercicios Aplicados.</li>
             </ul>
-        </div>
-
-        <div class="cta">
-            <button>¡Inscríbete Ahora!</button>
         </div>
 
         <div class="testimonials">
