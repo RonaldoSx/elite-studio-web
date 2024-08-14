@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -6,12 +5,15 @@
     <title>Élite Studio</title>
     <style>
         body {
-            font-family: 'Helvetica Neue', Arial, sans-serif;
+            font-family: Arial, sans-serif;
             background-color: #f4f4f4;
             color: #333;
             margin: 0;
             padding: 0;
             line-height: 1.6;
+        }
+        h1, h2, h3 {
+            font-family: Georgia, serif;
         }
         .container {
             width: 80%;
@@ -141,7 +143,7 @@
         </div>
 
         <div class="section">
-            <h2>¿Qué hacemos?</h2>
+            <h2>¿Qué Hacemos?</h2>
             <p>En Élite Studio nos especializamos en formar estudiantes y profesionales en todos los niveles, con técnicas que permiten desarrollar el máximo rendimiento intelectual. Nuestro programa de capacitación alcanza la cúspide de la eficiencia lectora, incrementando la concentración, comprensión y análisis, potenciando su desarrollo personal y profesional.</p>
         </div>
 
@@ -153,12 +155,12 @@
         <div class="section">
             <h2>Descripción del Programa</h2>
             <p>En Élite Studio, ofrecemos un innovador programa de lectura rápida diseñado para estudiantes y profesionales que desean maximizar su eficiencia de estudio y desarrollo cognitivo.</p>
-            <p>Nuestro programa permite a los participantes leer 200 páginas en solo 20 minutos con una comprensión, retención y sinterización del 100%, optimizando el tiempo y mejorando las habilidades mentales y emocionales.</p>
+            <p>Nuestro programa permite a los participantes leer 200 páginas en solo 20 minutos, con una comprensión, retención y síntesis del 100%, optimizando el tiempo y mejorando las habilidades mentales y emocionales.</p>
             <h3>Contenido del Programa</h3>
             <ul>
                 <li>Introducción a la Lectura Rápida.</li>
                 <li>Técnicas de Lectura Rápida y Flexibilidad Ocular.</li>
-                <li>Ampliamiento del campo visual en la lectura.</li>
+                <li>Ampliación del campo visual en la lectura.</li>
                 <li>Desarrollo de Habilidades Metacognitivas.</li>
                 <li>Entrenamiento en Inteligencia Emocional y Mental.</li>
                 <li>Prácticas y Ejercicios Aplicados.</li>
@@ -183,7 +185,7 @@
 
         <div class="contact-info">
             <h2>Contáctenos</h2>
-            <p>Babahoyo: General Barona y Olmedo (Edificio Carvajal, 3er. Piso Alto - Ofc.5)</p>
+            <p>Babahoyo: General Barona y Olmedo (Edificio Carvajal, 3er. Piso Alto - Ofc. 5)</p>
             <p>Email: eliteestudio032024@gmail.com</p>
             <p>Celular: 098 9133136</p>
             <p>Para Profesionales, Ejecutivos, Estudiantes, Amas de Casa</p>
